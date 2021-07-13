@@ -68,7 +68,7 @@ def transaction(arg1):
         'valorF': {valorFinal: inputMoedafin}
     }
     return output
-# Fonções nome e data, seleciona nome do usuario e confirma
+# Funções nome e data, seleciona nome do usuario e confirma
 def get_name():
     done = 0
     while not done:
